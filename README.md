@@ -8,7 +8,7 @@ This repository contains the research, insights, and presentation materials rela
 
 ## Contents
 
-1. **Presentation**: A detailed slide deck (`draft_1.pdf`) that provides insights into the various facets of building a Clinical Data Repository.
+1. **Presentation**: A detailed slide deck (`data_management_storage_and_architecture_5th_october_Vaibhav_Kulkarni.pdf`) that provides insights into the various facets of building a Clinical Data Repository.
 2. **Raw Data**: Data collected from various sources, including StackOverflow, HackerNews, and several data engineering blogs.
 3. **Scripts**: Code snippets and scripts used to analyze the raw data and derive insights.
 
@@ -28,7 +28,7 @@ This repository contains the research, insights, and presentation materials rela
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Navigate to the directory containing the presentation and open `draft_1.pdf`.
+2. Navigate to the directory containing the presentation and open `data_management_storage_and_architecture_5th_october_Vaibhav_Kulkarni.pdf`.
 3. Review the raw data and scripts as required.
 
 ## Contributing
