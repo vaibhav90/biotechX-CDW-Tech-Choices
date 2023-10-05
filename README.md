@@ -1,4 +1,4 @@
-# Healthcare Data Repository: Making Informed Technical Choices
+# Healthcare Data Repository: Making Informed Technology Choices
 
 A comprehensive guide and presentation on building a Healthcare Data Repository, focusing on the technical choices involved in constructing a robust data warehouse.
 
