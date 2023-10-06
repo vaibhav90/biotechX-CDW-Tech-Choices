@@ -1,6 +1,6 @@
 # Healthcare Data Repository: Making Informed Technology Choices
 
-A comprehensive guide and presentation on building a Healthcare Data Repository, focusing on the technical choices involved in constructing a robust data warehouse.
+A comprehensive guide and presentation on building a Healthcare Data Repository, focusing on the technical choices involved in constructing a robust data repositories.
 
 ## Overview
 
@@ -10,8 +10,7 @@ This repository contains the research, insights, and presentation materials rela
 
 1. **Presentation**: A detailed slide deck (`data_management_storage_and_architecture_5th_october_Vaibhav_Kulkarni.pdf`) that provides insights into the various facets of building a Healthcare Data Repository.
 2. **Raw Data**: Data collected from various sources, including StackOverflow, HackerNews, and several data engineering blogs.
-3. **Scripts**: Code snippets and scripts used to analyze the raw data and derive insights.
-
+3. **Scripts**: Code snippets and scripts used to scrape the data.
 ## Key Topics Covered
 
 - Importance of Healthcare Data Repositories
